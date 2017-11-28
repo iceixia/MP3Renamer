@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3Renamer", "MP3Renamer\MP3Renamer.csproj", "{F138804E-C4E8-4E6C-9A7C-EB70CF59FFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F138804E-C4E8-4E6C-9A7C-EB70CF59FFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F138804E-C4E8-4E6C-9A7C-EB70CF59FFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F138804E-C4E8-4E6C-9A7C-EB70CF59FFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F138804E-C4E8-4E6C-9A7C-EB70CF59FFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CAAEB1D-CCA7-41E1-A713-947DCEBED10E}
+	EndGlobalSection
+EndGlobal
